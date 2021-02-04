@@ -12,5 +12,5 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Previews
 
-<img src="https://lh3.googleusercontent.com/zVeAYMYlbOEHNS-9OOB3F5U9inlsyWHsYgG9NF3nkIBzrQza0Bl9o5KRh5XAj4o5W4f_GKhKzOjRKE8P2E8_=w1366-h657-rw" height="300" />
-<img src="https://lh3.googleusercontent.com/BMWsOB2zpFhecKLOGGMWcVOtUIS-l0gBaNTnzDpf0Tuk5exHWcWeRJki_u8_EAta6yOs0TYo5P7eIsFwXhWs=w1366-h657-rw" height="300" />
+<img src="https://firebasestorage.googleapis.com/v0/b/firstproyect-911a0.appspot.com/o/Captura4.PNG?alt=media&token=9670426e-5383-460b-b604-414b17b451e6" height="300" />
+<img src="https://firebasestorage.googleapis.com/v0/b/firstproyect-911a0.appspot.com/o/Captura5.PNG?alt=media&token=3127635d-5cbd-4b59-8175-a3f9cbabcab5" height="300" />
